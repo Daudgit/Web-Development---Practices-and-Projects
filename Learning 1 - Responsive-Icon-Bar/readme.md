@@ -1,20 +1,5 @@
-"Responsive-Icon-Bar"
 
-Explanation:
-The folder "Responsive-Icon-Bar" contains a simple and responsive icon bar implemented using HTML, CSS, and JavaScript. The icon bar consists of four icons representing different navigation links.
 
-File Structure:
-```
-Responsive-Icon-Bar
-│   index.html        (HTML file containing the icon bar markup)
-│   style.css         (CSS file for styling the icon bar)
-│   script.js         (JavaScript file for handling icon clicks)
-│   README.md         (Markdown file explaining the implementation)
-│   ...
-```
-
-README.md:
-```
 # Responsive Icon Bar
 
 This repository contains a simple and responsive icon bar implemented using HTML, CSS, and JavaScript. The icon bar is designed to be visually appealing and interactive.
@@ -50,6 +35,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use, modify, and distribute this code for personal or commercial purposes.
 
-```
 
-In the README.md file, you can provide a detailed explanation of the project, its features, technologies used, and how it works. You can also give credits to any third-party resources used (e.g., Font Awesome) and mention the license under which the project is shared.
