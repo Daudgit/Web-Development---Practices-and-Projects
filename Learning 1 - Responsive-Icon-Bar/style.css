@@ -1,0 +1,44 @@
+.body{
+    position: relative;
+}
+
+.icon-bar{
+    position: relative;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    width: auto;
+    
+}
+
+.icon-bar a{
+    color: rgb(0, 0, 0);
+    transition: all 0.3s ease;
+}
+
+.icon-bar .active{
+    background-color: red;
+
+}
+
+
+
+/* Rest of your CSS styles */
+.icon-bar a:hover {
+    color: #fff;
+    /* Change icon color to white on hover */
+    background-color: #555;
+    /* Add a darker background color on hover */
+}
+
+.icon-bar .icon.active {
+    background-color: red;
+}
+
+.icon-bar .icon.active i {
+    color: rgb(43, 33, 133);
+    /* Change icon color to white when active */
+}
