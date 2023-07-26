@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Menu Icon</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container" onclick="myFunction()">
+        <div id="bar1"></div>
+        <div id="bar2"></div>
+        <div id="bar3"></div>
+    </div>
+
+    <script>
+        function myFunction(){
+            var container = document.getElementById("container");
+            container.classList.toggle("change");
+        }
+    </script>
+</body>
+</html>
