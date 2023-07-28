@@ -36,4 +36,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Author :pencil:
 
-[SK DAUD HASSAN](https://github.com/yourusername) - Feel free to mention your GitHub profile link. :smiley:
+[SK DAUD HASSAN](https://github.com/DaudGit) - Feel free to mention your GitHub profile link. :smiley:
