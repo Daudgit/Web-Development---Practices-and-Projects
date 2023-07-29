@@ -5,11 +5,10 @@ This is a simple web application that demonstrates how to switch between differe
 
 ## Table of Contents
 - [Description](#description)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
