@@ -21,7 +21,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/tab-content-switcher.git
+   git clone https://github.com/DaudGit/tab-content-switcher
    cd tab-content-switcher
    ```
 
