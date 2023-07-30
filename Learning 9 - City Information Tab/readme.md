@@ -9,7 +9,7 @@ City Information Tabs is a simple web application that allows users to view info
 
 ## Explanation of Code
 
-The project consists of three main files:
+The project consists of three main files: 
 
 1. `index.html`: This HTML file contains the structure of the web page. It includes the container divs for each city, the tab buttons, and links to the CSS and JavaScript files.
 
