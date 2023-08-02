@@ -1,5 +1,5 @@
 
-# Web Development Practices and Projects :computer: :rocket: :ballon:
+# Web Development Practices and Projects :computer: :rocket: :balloon:
 
 Welcome to my repository for Web Development practices and projects! Here, I explore various web development concepts, work on projects, and document my learning journey.
 
